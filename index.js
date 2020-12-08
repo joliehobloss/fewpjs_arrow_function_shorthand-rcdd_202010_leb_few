@@ -2,15 +2,10 @@ let divide = function(value) {
   return value/100;
 }
 
+let square=x=>x**x
+
 /*describe("index.js", () => {
-  it("has a functional expression called divide", () => {
-    expect(divide).to.exist
-  })
-
-  it("divide divides 2000 by 100", () => {
-    expect(divide()).to.equal(20)
-  })
-
+  
   it("has an arrow function called square", () => {
     expect(square).to.exist
   })
