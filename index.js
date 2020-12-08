@@ -5,15 +5,7 @@ let divide = function() {
 let square=x=>x**x
 
 /*describe("index.js", () => {
-  
-  it("has an arrow function called square", () => {
-    expect(square).to.exist
-  })
 
-  it("square arrow function multiplies a number times itself", () => {
-    let x = 2
-    expect(square(x)).to.equal(4)
-  })
 
   it("has an arrow function called add", () => {
     expect(add).to.exist
