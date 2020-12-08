@@ -1,4 +1,6 @@
-
+let divide = function(value) {
+  return value/100;
+}
 
 /*describe("index.js", () => {
   it("has a functional expression called divide", () => {
