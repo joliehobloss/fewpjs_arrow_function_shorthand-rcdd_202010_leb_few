@@ -2,7 +2,7 @@ let divide = function(value) {
   return value/100;
 }
 
-let square=x=>x*2
+let square=x=>x**x
 
 /*describe("index.js", () => {
   
